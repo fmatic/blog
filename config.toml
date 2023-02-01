@@ -1,6 +1,6 @@
 baseURL = 'https://fmatic.github.io/blog'
 languageCode = 'en-us'
-title = 'fmatic's personal playground'
+title = 'Digital Daydreams by fmatic'
 paginate = "10" # Number of elements per page in pagination
 theme = "binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
