@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author] # Used in authorbox
   name = "fmatic"
   bio = "Janne Heinikangas. Jyväskyläläinen vuonna 1975 syntynyt nörtti, radioharrastaja ja lähihoitaja."
-  avatar = "blog/img/avatar.png"
+  avatar = "img/avatar.png"
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
