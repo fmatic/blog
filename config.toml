@@ -7,8 +7,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  name = "fmatic"
+  bio = "Janne Heinikangas. Jyväskyläläinen vuonna 1975 syntynyt nörtti, radioharrastaja ja lähihoitaja."
   avatar = "img/avatar.png"
 
 [Params]
