@@ -1,4 +1,4 @@
 baseURL = 'https://fmatic.github.io'
 languageCode = 'en-us'
 title = 'fmatic personal playground'
-theme = 'zen'
+theme = 'mini'
