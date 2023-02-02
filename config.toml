@@ -35,7 +35,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.Entry]
   meta = ["date", "categories", "tags"] # Enable meta fields in given order
-  toc = true # Enable Table of Contents
+  toc = false # Enable Table of Contents
   tocOpen = true # Open Table of Contents block. Optional
 
 [Params.Featured]

@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fmatic.github.io/blog/</loc>
-    <lastmod>2023-02-01T14:50:34+02:00</lastmod>
+    <lastmod>2023-02-01T18:50:40+02:00</lastmod>
   </url><url>
-    <loc>https://fmatic.github.io/blog/post/first-post/</loc>
-    <lastmod>2023-02-01T14:50:34+02:00</lastmod>
+    <loc>https://fmatic.github.io/blog/post/second/</loc>
+    <lastmod>2023-02-01T18:50:40+02:00</lastmod>
   </url><url>
     <loc>https://fmatic.github.io/blog/post/</loc>
+    <lastmod>2023-02-01T18:50:40+02:00</lastmod>
+  </url><url>
+    <loc>https://fmatic.github.io/blog/post/first-post/</loc>
     <lastmod>2023-02-01T14:50:34+02:00</lastmod>
   </url><url>
     <loc>https://fmatic.github.io/blog/categories/</loc>
