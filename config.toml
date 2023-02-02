@@ -46,19 +46,19 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   homeText = "Binario" # Home node text
 
 [Params.Social]
-  email = "example@example.com"
-  facebook = "username"
-  twitter = "username"
-  telegram = "username"
-  instagram = "username"
-  pinterest = "username"
-  vk = "username"
-  linkedin = "username"
-  github = "username"
-  gitlab = "username"
-  stackoverflow = "numberid"
-  mastodon = "https://some.instance/@username"
-  medium = "username"
+  email = "fmatic@gmail.com"
+  facebook = "heinikangas"
+  twitter = "fmatic_"
+  #telegram = "username"
+  instagram = "heinikangas"
+  #pinterest = "username"
+  #vk = "username"
+  linkedin = "heinikangas"
+  github = "fmatic"
+  #gitlab = "username"
+  #stackoverflow = "numberid"
+  mastodon = "https://hyvienpuoli.fi/@heinikangas"
+  #medium = "username"
 
 [Params.Share] # Entry Share block
   facebook = true
