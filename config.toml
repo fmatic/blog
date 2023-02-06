@@ -2,7 +2,7 @@ baseURL = 'https://fmatic.xyz/'
 languageCode = 'en-us'
 title = 'Digital Daydreams by fmatic'
 paginate = "10" # Number of elements per page in pagination
-theme = "binario"
+theme = "Binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
