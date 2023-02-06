@@ -1,4 +1,4 @@
-baseURL = 'https://fmatic.github.io/'
+baseURL = 'https://fmatic.xyz/'
 languageCode = 'en-us'
 title = 'Digital Daydreams by fmatic'
 paginate = "10" # Number of elements per page in pagination
