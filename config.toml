@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Digital Daydreams by fmatic'
 paginate = "10" # Number of elements per page in pagination
 theme = "binario"
-disqusShortname = "janneheinikangas" # Enable comments by entering your Disqus shortname
+disqusShortname = "fmatic" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
